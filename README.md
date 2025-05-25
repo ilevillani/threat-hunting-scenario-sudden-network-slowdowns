@@ -1,4 +1,4 @@
-# Threat Hunting Scenario - Sudden Network Slowdowns
+# Threat Hunting Report: Sudden Network Slowdowns
 
 ---
 
